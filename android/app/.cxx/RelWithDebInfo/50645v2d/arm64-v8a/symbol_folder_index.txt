@@ -1,0 +1,1 @@
+C:\Users\gauta\OneDrive\Documents\Flutter Projects\Favorite_Places_Application\build\app\intermediates\cxx\RelWithDebInfo\50645v2d\obj\arm64-v8a
